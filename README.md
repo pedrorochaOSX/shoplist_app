@@ -1,2 +1,2 @@
-# shoplist_app
-Shoplist app.
+# Shoplist
+### [Get it on Google Play]()
